@@ -9,5 +9,3 @@ def oxford_comma(array)
     return array[-1] = " and #{array[-1]}"
   end  
 end
-end
-end
